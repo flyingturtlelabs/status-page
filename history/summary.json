@@ -28,19 +28,19 @@
     "url": "https://google.com",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "passing-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 134,
-    "timeWeek": 172,
-    "timeMonth": 153,
-    "timeYear": 162,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 163,
+    "timeDay": 177,
+    "timeWeek": 178,
+    "timeMonth": 155,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 25
     }
   }
 ]
