@@ -4,7 +4,7 @@
     "url": "https://aneem.dev",
     "icon": "https://favicons.githubusercontent.com/aneem.dev",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 261,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-22": 41,
       "2021-12-20": 21,
       "2021-11-16": 19,
