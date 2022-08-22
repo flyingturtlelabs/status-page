@@ -6,13 +6,13 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.95%",
     "time": 311,
-    "timeDay": 239,
-    "timeWeek": 239,
+    "timeDay": 250,
+    "timeWeek": 254,
     "timeMonth": 344,
     "timeYear": 315,
     "dailyMinutesDown": {
@@ -38,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 129,
-    "timeWeek": 204,
-    "timeMonth": 165,
-    "timeYear": 156,
+    "time": 158,
+    "timeDay": 690,
+    "timeWeek": 287,
+    "timeMonth": 183,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-04-13": 25
     }
